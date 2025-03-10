@@ -1,5 +1,5 @@
 # USP.upr3
 #Hello World
-#maznaaaaaaaaaaaaaa
+#maz
 
 #da si hodim
